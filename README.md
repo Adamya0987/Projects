@@ -1,2 +1,2 @@
 # Projects
-Full stack projects
+Data analyst project
